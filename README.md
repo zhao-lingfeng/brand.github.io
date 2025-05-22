@@ -1,20 +1,17 @@
-# Brand Name — Fashion Brand Website Template
+ブランド名 — ファッションブランド向けウェブサイトテンプレート
+これは、ファッションブランド「ブランド名」のためにデザインされたレスポンシブ対応のウェブサイトテンプレートです。ブランドのアイデンティティ、ルックブック、連絡先情報を、クリーンかつモバイルフレンドリーなレイアウトで紹介することができます。
 
-This is a **responsive website template** for the fashion brand **Brand Name**, designed to present the brand's identity, look book, and contact information in a clean, mobile-friendly layout.
+本プロジェクトは、erickdc7 / coffee-shop-website-design によるオープンソーステンプレートをベースに、ファッションブランド向けにカスタマイズしたものです。GitHub Pages を利用して簡単にデプロイできるほか、Netlify や Vercel などのホスティングサービスにも対応しています。
 
-This project is adapted from an open-source coffee shop website template and customized for a clothing label. It can be deployed easily using [GitHub Pages](https://pages.github.com/) or hosted on platforms like Netlify or Vercel.
+🌟 主な特徴
+デスクトップ／タブレット／スマホ対応のレスポンシブデザイン
+ブランドロゴおよびネームセクション
+ルックブック（または商品ギャラリー）
+ブランド紹介セクション
+お問い合わせ & SNSリンク
+クリーンでミニマルな HTML/CSS 構造
 
-## 🌟 Features
-
-- Fully responsive design (desktop/tablet/mobile)
-- Brand logo and name section
-- Lookbook/product gallery
-- About the brand section
-- Contact & social media links
-- Clean and minimal HTML/CSS structure
-
-## 🔧 Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (optional for interactivity)
+🔧 使用技術
+HTML5
+CSS3
+JavaScript（インタラクティブな機能を追加する場合）
